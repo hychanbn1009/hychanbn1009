@@ -1,7 +1,6 @@
 # :wave:Hello
 
-My name is Hei Yuen Chan. I am currently leanring Full Stack Devlopment through [The Odin Project](https://www.theodinproject.com/).
-Programming was one of my interest. I love building things from scratch. This journey must be difficult and tough. But I enjoy in every problem-solving moment.
+My name is Hei Yuen Chan. I am currently learning Full Stack Development through The Odin Project. Programming is my hobby. I love building things from scratch. I enjoy every problem-solving moment.
 
 
 # :writing_hand: Languages
