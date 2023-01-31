@@ -38,6 +38,8 @@ My name is Hei Yuen Chan. I am currently learning Full Stack Development through
 
 
 # Stats
+![](https://komarev.com/ghpvc/?username=hychanbn1009&color=green)
+
 ![Hychanbn1009's GitHub stats](https://github-readme-stats.vercel.app/api?username=hychanbn1009&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hychanbn1009&layout=compact)](https://github.com/hychanbn1009/github-readme-stats)
