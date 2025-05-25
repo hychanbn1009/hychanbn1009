@@ -44,7 +44,7 @@ My name is Kyle Chan. I am a Full Stack Developer.
 
 ![Hychanbn1009's GitHub stats](https://github-readme-stats.vercel.app/api?username=hychanbn1009&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hychanbn1009&layout=compact)](https://github.com/hychanbn1009/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hychanbn1009)](https://github.com/hychanbn1009/github-readme-stats)
 
 <!---
 - 👋 Hi, I’m @hychanbn1009
